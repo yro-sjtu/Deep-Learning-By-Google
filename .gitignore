@@ -1,0 +1,8 @@
+notMNIST.pickle
+notMNIST_large/*
+notMNIST_small/*
+notMNIST_large.tar.gz
+notMNIST_small.tar.gz
+text8.zip
+.DS_Store
+.ipynb_checkpoints/*
